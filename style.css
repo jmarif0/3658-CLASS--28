@@ -1,0 +1,86 @@
+
+header img{
+    width: 80px;
+}
+
+/* header{
+    z-index: 99;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+
+} */
+
+/* Banner Style Start */
+.banner{
+    background: #f9f9ff;
+    /* margin-top: 84px; */
+}
+.banner .left-content{
+    margin-top: 160px;
+}
+.btn-banner{
+    background: #8490ff;
+    color: #fff;
+}
+
+.btn-banner:hover{
+    color: #8490ff;
+    border: 2px solid #8490ff;
+}
+/* Banner Style End */
+
+/* Number Counter Style Start */
+.number-counter{
+    background: #8490ff;
+}
+.number-counter p{
+    margin-bottom: 0;
+}
+/* Number Counter Style End */
+
+
+/* Offer Style Start */
+.offer{
+    background: #f9f9ff;
+}
+
+.offer .purchase-table{
+    padding-top: 15px !important;
+    padding-bottom: 30px !important;
+} 
+.offer .purchase-table .number{
+    width: 80px;
+    height: 80px;
+} 
+
+.offer-table-row{
+    max-width: 1200px;
+    margin: auto;
+}
+/* Offer Style End */
+
+
+/* Team Style Start */
+.team{
+    margin-top: 100px;
+}
+.team-card{
+    
+    position: relative;
+}
+.team-card img{
+    width: 90px;
+    position: absolute;
+    top: -60px;
+    left: 15px;
+}
+/* Team Style End */
+
+
+/* Contact Style Start */
+.contact{
+    background: #f9f9ff;
+}
+/* Contact Style End */
